@@ -1,2 +1,5 @@
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
+
 This work is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-nd/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
+
+This work is licensed under the Attribution-NonCommercial-NoDerivatives 4.0 International license. This means that you are free to share (copy and redistribute) the work in any medium or format, as long as you give appropriate credit, do not use the work for commercial purposes, and do not change or build upon the work. For more information, please visit the Creative Commons website. By accessing this work, you are agreeing to abide by the terms of this license.
